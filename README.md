@@ -1,2 +1,2 @@
 # Algorithm
-Algorithm Problems / Programmers, SWEA, Baekjoon, CodeForces
+Solving Algorithm Problems / Programmers, SWEA, Baekjoon, CodeForces
