@@ -1,3 +1,6 @@
+# kakao_2021_blind #2
+# 완전탐색, 조합
+# Counter 사용시 코드 간결해짐
 from itertools import combinations
 
 
